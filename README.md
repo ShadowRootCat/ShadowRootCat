@@ -139,7 +139,7 @@
 
 
 <div align="center">
-   <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" alt="Contribution Snake Animation" style="max-width: 700px; margin-top: 20px;"/>
+   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Contribution Snake Animation" style="max-width: 700px; margin-top: 20px;"/>
 </div>
 
 
