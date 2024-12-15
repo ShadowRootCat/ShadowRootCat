@@ -125,6 +125,7 @@ For any inquiries, questions, or collaboration opportunities, feel free to reach
 
 ---
 
+
 <div align="center">
 
 ### 🐍 GitHub Contribution Snake
@@ -136,3 +137,4 @@ For any inquiries, questions, or collaboration opportunities, feel free to reach
 </picture>
 
 </div>
+
