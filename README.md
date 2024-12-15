@@ -49,13 +49,35 @@ My GitHub repository, **README**, serves as a personal introduction and a work-i
 
 ---
 
+<div align="center">
+
 ## 🌐 Connect with Me
-Here are some platforms where you can reach me or follow my work:
-- **Mastodon**: [ShadowRootCat@mastodon.social](#)
-- **Hack The Box**: [ShadowRootCat](#)
-- **Matrix**: [MatrixID](#)
-- **Keybase**: [ShadowRootCat](#)
-- **Email**: [shadowrootcat@example.com](mailto:shadowrootcat@example.com)
+
+<table>
+  <tr>
+    <td><strong>Mastodon</strong></td>
+    <td>ShadowRootCat@mastodon.social</td>
+  </tr>
+  <tr>
+    <td><strong>Hack The Box</strong></td>
+    <td>ShadowRootCat</td>
+  </tr>
+  <tr>
+    <td><strong>Matrix</strong></td>
+    <td>MatrixID</td>
+  </tr>
+  <tr>
+    <td><strong>Keybase</strong></td>
+    <td>ShadowRootCat</td>
+  </tr>
+  <tr>
+    <td><strong>Email</strong></td>
+    <td><a href="mailto:shadowrootcat@example.com">shadowrootcat@example.com</a></td>
+  </tr>
+</table>
+
+</div>
+
 
 ---
 
