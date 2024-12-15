@@ -20,7 +20,6 @@ For any inquiries, questions, or collaboration opportunities, feel free to reach
 <br/><br/>
 
   
-📧 **ShadowRootCat@gmail.com** 
 
 📧 **ShadowRootCat@wearehackerone.com* 
 </h3>
@@ -55,24 +54,12 @@ My GitHub repository, **README**, serves as a personal introduction and a work-i
 
 <table>
   <tr>
-    <td><strong>Mastodon</strong></td>
-    <td>ShadowRootCat@mastodon.social</td>
-  </tr>
-  <tr>
     <td><strong>Hack The Box</strong></td>
     <td>ShadowRootCat</td>
   </tr>
   <tr>
-    <td><strong>Matrix</strong></td>
-    <td>MatrixID</td>
-  </tr>
-  <tr>
-    <td><strong>Keybase</strong></td>
-    <td>ShadowRootCat</td>
-  </tr>
-  <tr>
     <td><strong>Email</strong></td>
-    <td><a href="mailto:shadowrootcat@example.com">shadowrootcat@example.com</a></td>
+    <td><a href="mailto:shadowrootcat@example.com">ShadowRootCat@gmail.com</a></td>
   </tr>
 </table>
 
