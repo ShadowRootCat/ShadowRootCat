@@ -35,20 +35,16 @@ For any inquiries, questions, or collaboration opportunities, feel free to reach
 
 
 ---
-
 <div align="center">
 
 ## 🌐 Connect with Me
 
 **Hack The Box**: ShadowRootCat  
-**Email**: [ShadowRootCat@gmail.com](mailto:shadowrootcat@example.com)
+**Email**: [ShadowRootCat@gmail.com](mailto:shadowrootcat@gmail.com)  
+**HackerOne Email**: [ShadowRootCat@wearehackerone.com](mailto:shadowrootcat@wearehackerone.com)
 
 </div>
 
-
----
-
-<div align="center">
 
 ## 🚀 My Skills & Tools
 
