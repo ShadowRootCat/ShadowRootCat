@@ -3,6 +3,10 @@
 <p align="center"> <img src="https://github.com/ShadowRootCat/readme/blob/main/9fcb474c4978b79773ebad8f5177b4edea009bbcfd4f072cfb7088cc638ad2b7-removebg-preview.png" alt="shadowrootcat" /> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shadowrootcat&label=Profile%20views&color=0e75b6&style=flat" alt="shadowrootcat" /> </p>
 
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shadowrootcat&theme=github_dark" alt="ShadowRootCat's GitHub Stats"/>
+</div>
+
 <h3 align="center">DevSecOps</h3>
 
 <h3 align="center">Languages and Tools:</h3>
