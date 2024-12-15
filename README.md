@@ -2,8 +2,6 @@
 
 <p align="center"> <img src="https://github.com/ShadowRootCat/readme/blob/main/9fcb474c4978b79773ebad8f5177b4edea009bbcfd4f072cfb7088cc638ad2b7-removebg-preview.png" alt="shadowrootcat" /> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shadowrootcat&label=Profile%20views&color=0e75b6&style=flat" alt="shadowrootcat" /> </p>
-
-
 <h3 align="center">DevSecOps</h3>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -25,9 +23,8 @@ For any inquiries, questions, or collaboration opportunities, feel free to reach
 # 👋 Welcome to **ShadowRootCat's GitHub!**
 
 <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=50&duration=4000&color=33FF33&center=true&vCenter=true&width=600&lines=Hello!+I'm+ShadowRootCat;Welcome+to+my+GitHub!;Explore+my+projects+below!" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=70&duration=4000&color=33FF33&center=true&vCenter=true&width=800&lines=+I'm+ShadowRootCat;Welcome" alt="Typing SVG"/>
 </h1>
-
 </div>
 
 
@@ -35,31 +32,25 @@ For any inquiries, questions, or collaboration opportunities, feel free to reach
 <div align="center">
 
 ## 🌐 Connect with Me
-
-<a href="https://www.hackthebox.com" target="_blank" style="text-decoration: none;">
-  <p style="font-size: 1.5em; font-weight: bold; animation: flash 2s infinite;">🚀 Hack The Box: <span style="color: #43b581;">ShadowRootCat</span></p>
+<a href="https://www.hackthebox.com" target="_blank">
+  <img src="https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=Hack-The-Box&logoColor=green" alt="Hack The Box">
 </a>
 
-<a href="mailto:shadowrootcat@gmail.com" style="text-decoration: none;">
-  <p style="font-size: 1.5em; font-weight: bold; animation: flash 3s infinite;">📧 Email: <span style="color: #d14836;">ShadowRootCat@gmail.com</span></p>
+<a href="mailto:shadowrootcat@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ShadowRootCat@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-<a href="mailto:shadowrootcat@wearehackerone.com" style="text-decoration: none;">
-  <p style="font-size: 1.5em; font-weight: bold; animation: flash 4s infinite;">🔐 HackerOne Email: <span style="color: #000000;">ShadowRootCat@wearehackerone.com</span></p>
+<a href="mailto:shadowrootcat@wearehackerone.com">
+  <img src="https://img.shields.io/badge/HackerOne_Email-ShadowRootCat@wearehackerone.com-000000?style=for-the-badge&logo=HackerOne&logoColor=white" alt="HackerOne Email">
 </a>
+
+<img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" alt="Contribution Snake Animation" style="max-width: 700px; margin-top: 20px;"/>
 
 </div>
 
-<!-- Add CSS for animations -->
-<style>
-@keyframes flash {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0.5; }
-}
-</style>
 
 
----
+
 <div align="center">
 
 
@@ -156,9 +147,5 @@ For any inquiries, questions, or collaboration opportunities, feel free to reach
 </div>
 
 
-<div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" alt="GitHub Contribution Snake GIF" style="max-width: 700px; width: 100%; border: 2px solid #33ff33; border-radius: 10px;"/>
-
-</div>
 
