@@ -36,11 +36,28 @@ For any inquiries, questions, or collaboration opportunities, feel free to reach
 
 ## 🌐 Connect with Me
 
-**Hack The Box**: ShadowRootCat  
-**Email**: [ShadowRootCat@gmail.com](mailto:shadowrootcat@gmail.com)  
-**HackerOne Email**: [ShadowRootCat@wearehackerone.com](mailto:shadowrootcat@wearehackerone.com)
+<a href="https://www.hackthebox.com" target="_blank" style="text-decoration: none;">
+  <p style="font-size: 1.5em; font-weight: bold; animation: flash 2s infinite;">🚀 Hack The Box: <span style="color: #43b581;">ShadowRootCat</span></p>
+</a>
+
+<a href="mailto:shadowrootcat@gmail.com" style="text-decoration: none;">
+  <p style="font-size: 1.5em; font-weight: bold; animation: flash 3s infinite;">📧 Email: <span style="color: #d14836;">ShadowRootCat@gmail.com</span></p>
+</a>
+
+<a href="mailto:shadowrootcat@wearehackerone.com" style="text-decoration: none;">
+  <p style="font-size: 1.5em; font-weight: bold; animation: flash 4s infinite;">🔐 HackerOne Email: <span style="color: #000000;">ShadowRootCat@wearehackerone.com</span></p>
+</a>
 
 </div>
+
+<!-- Add CSS for animations -->
+<style>
+@keyframes flash {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+</style>
+
 
 ---
 <div align="center">
@@ -135,6 +152,13 @@ For any inquiries, questions, or collaboration opportunities, feel free to reach
   <source media="(prefers-color-scheme: light)" srcset="output/github-snake.svg" />
   <img alt="GitHub Contribution Snake" src="output/github-snake.svg" />
 </picture>
+
+</div>
+
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" alt="GitHub Contribution Snake GIF" style="max-width: 700px; width: 100%; border: 2px solid #33ff33; border-radius: 10px;"/>
 
 </div>
 
