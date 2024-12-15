@@ -23,8 +23,10 @@ For any inquiries, questions, or collaboration opportunities, feel free to reach
 # 👋 Welcome to **ShadowRootCat's GitHub!**
 
 <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=70&duration=4000&color=33FF33&center=true&vCenter=true&width=800&lines=+I'm+ShadowRootCat;Welcome" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=50&duration=4000&color=33FF33&center=true&vCenter=true&width=600&lines=+I'm+ShadowRootCat;Welcome" alt="Typing SVG"/>
 </h1>
+
+
 </div>
 
 
