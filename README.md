@@ -33,13 +33,6 @@ For any inquiries, questions, or collaboration opportunities, feel free to reach
 
 </div>
 
----
-
-<div align="center">
-
-## 🌟 About Me
-I'm passionate about **Cybersecurity**, **Open Source Development**, and creating solutions that make an impact.  
-My GitHub repository, **README**, serves as a personal introduction and a work-in-progress digital bio. I'll be continuously updating it to reflect my journey, projects, and skills.
 
 ---
 
