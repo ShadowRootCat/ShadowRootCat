@@ -3,9 +3,6 @@
 <p align="center"> <img src="https://github.com/ShadowRootCat/readme/blob/main/9fcb474c4978b79773ebad8f5177b4edea009bbcfd4f072cfb7088cc638ad2b7-removebg-preview.png" alt="shadowrootcat" /> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shadowrootcat&label=Profile%20views&color=0e75b6&style=flat" alt="shadowrootcat" /> </p>
 
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shadowrootcat&theme=github_dark" alt="ShadowRootCat's GitHub Stats"/>
-</div>
 
 <h3 align="center">DevSecOps</h3>
 
@@ -34,7 +31,7 @@ For any inquiries, questions, or collaboration opportunities, feel free to reach
 </div>
 
 
----
+
 <div align="center">
 
 ## 🌐 Connect with Me
@@ -45,10 +42,13 @@ For any inquiries, questions, or collaboration opportunities, feel free to reach
 
 </div>
 
+---
+<div align="center">
+
 
 ## 🚀 My Skills & Tools
 
----
+
 
 ### 🛡️ Cybersecurity & Penetration Testing
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
@@ -62,7 +62,6 @@ For any inquiries, questions, or collaboration opportunities, feel free to reach
 <img src="https://img.shields.io/badge/Hashcat-333333?style=for-the-badge" alt="Hashcat"/>
 <img src="https://img.shields.io/badge/Social_Engineering_Tools-FF0000?style=for-the-badge" alt="Social Engineering Tools"/>
 
----
 
 ### 🐍 Python & Automation
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -77,7 +76,6 @@ For any inquiries, questions, or collaboration opportunities, feel free to reach
 <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
 
----
 
 ### 🖥️ Platforms
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
@@ -88,7 +86,6 @@ For any inquiries, questions, or collaboration opportunities, feel free to reach
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware"/>
 
----
 
 ### 🔧 Frameworks
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -100,7 +97,6 @@ For any inquiries, questions, or collaboration opportunities, feel free to reach
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 
----
 
 ### 💻 Operating Systems
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
@@ -110,7 +106,6 @@ For any inquiries, questions, or collaboration opportunities, feel free to reach
 <img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/>
 <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
 
----
 
 ### 📜 Scripting Tools
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
@@ -119,5 +114,25 @@ For any inquiries, questions, or collaboration opportunities, feel free to reach
 <img src="https://img.shields.io/badge/YAML-0A0A0A?style=for-the-badge" alt="YAML"/>
 <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge" alt="JSON"/>
 <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Scripting"/>
+
+</div>
+
+---
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shadowrootcat&theme=github_dark" alt="ShadowRootCat's GitHub Stats"/>
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 GitHub Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="output/github-snake.svg" />
+</picture>
 
 </div>
