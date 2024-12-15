@@ -38,7 +38,6 @@
   <img src="https://img.shields.io/badge/HackerOne_Email-ShadowRootCat@wearehackerone.com-000000?style=for-the-badge&logo=HackerOne&logoColor=white" alt="HackerOne Email">
 </a>
 
-<img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" alt="Contribution Snake Animation" style="max-width: 700px; margin-top: 20px;"/>
 
 </div>
 
@@ -140,6 +139,10 @@
 
 </div>
 
+
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" alt="Contribution Snake Animation" style="max-width: 700px; margin-top: 20px;"/>
+</div>
 
 
 
