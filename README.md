@@ -19,11 +19,6 @@
 For any inquiries, questions, or collaboration opportunities, feel free to reach out:
 <br/><br/>
 
-  
-
-📧 **ShadowRootCat@wearehackerone.com* 
-</h3>
-
 
 
 
