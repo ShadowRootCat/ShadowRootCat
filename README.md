@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm ShadowRootCat</h1>
 
 <p align="center"> 
@@ -5,10 +6,8 @@
        alt="shadowrootcat" 
        width="300" 
        height="300" />
+  <h3 align="center">DevSecOps</h3>
 </p>
-
-<h3 align="center">DevSecOps</h3>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shadowrootcat&label=Profile%20views&color=0e75b6&style=flat" alt="shadowrootcat" /> </p>
 
 <div align="center">
