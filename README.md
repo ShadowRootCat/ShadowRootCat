@@ -3,8 +3,8 @@
 <p align="center"> 
   <img src="https://github.com/ShadowRootCat/readme/blob/main/9fcb474c4978b79773ebad8f5177b4edea009bbcfd4f072cfb7088cc638ad2b7-removebg-preview.png" 
        alt="shadowrootcat" 
-       width="400" 
-       height="400" />
+       width="300" 
+       height="300" />
 </p>
 
 <h3 align="center">DevSecOps</h3>
