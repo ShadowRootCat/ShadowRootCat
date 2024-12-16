@@ -11,7 +11,23 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shadowrootcat&label=Profile%20views&color=0e75b6&style=flat" alt="shadowrootcat" /> </p>
 
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shadowrootcat&theme=github_dark" alt="ShadowRootCat's GitHub Stats"/>
+</div>
 
+---
+
+
+<div align="center">
+ 🐍 GitHub Contribution Snake
+ 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="output/github-snake.svg" />
+</picture>
+
+</div>
 
 
 
@@ -117,26 +133,6 @@
 </div>
 
 ---
-
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shadowrootcat&theme=github_dark" alt="ShadowRootCat's GitHub Stats"/>
-</div>
-
----
-
-
-<div align="center">
-
-### 🐍 GitHub Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="output/github-snake.svg" />
-</picture>
-
-</div>
-
 
 <div align="center">
    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Contribution Snake Animation" style="max-width: 700px; margin-top: 20px;"/>
