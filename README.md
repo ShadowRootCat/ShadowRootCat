@@ -71,8 +71,9 @@
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
 <img src="https://img.shields.io/badge/Zsh-89E051?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Zsh"/>
 <img src="https://img.shields.io/badge/YAML-0A0A0A?style=for-the-badge" alt="YAML"/>
-<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge" alt="JSON"/>
 <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Scripting"/>
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge" alt="JSON"/>
+
 
 
 ### 🛡️ Cybersecurity & Penetration Testing
