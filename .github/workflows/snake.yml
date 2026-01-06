@@ -35,3 +35,4 @@ jobs:
           git add output/
           git commit -m "Generated Snake Animation"
           git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
+
